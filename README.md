@@ -135,8 +135,8 @@ dataset_info:
         dtype: int32
   splits:
   - name: train
-    num_bytes: 16366464
-    num_examples: 10711
+    num_bytes: 52199025303
+    num_examples: 34960700
   download_size: 41168762331
   dataset_size: 52199025303
 ---
